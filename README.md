@@ -1,7 +1,7 @@
 
 # Tech Conference Website
 
-A simple website that was made with bootstrap 5, mobile-friendly and optimize for accesibility. Inspired by a course at [Tree House](https://teamtreehouse.com/library/bootstrap-basics).
+A simple website that was made with bootstrap 5, is mobile-friendly and optimized for accesibility. Inspired by a course at [Tree House](https://teamtreehouse.com/library/bootstrap-basics).
 
 [🌐 View Page!](https://project1.invisionnaire.com/)
 ## API calls
